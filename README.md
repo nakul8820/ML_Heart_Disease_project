@@ -41,25 +41,19 @@ This project predicts the likelihood of heart disease using machine learning tec
  ```
 ## Model Used
 
-* Model: (e.g., Random Forest, Logistic Regression, XGBoost)
+* Model: (e.g., Random Forest Classifier, K-Neighbors Classifier, Support Vector Machine, Desicion Tree:79%)
 * Reason for selection: High performance, handles non-linearity, interpretable
 
 ## Evaluation Metrics
 
-* Primary metric: (e.g., F1-score / Accuracy / AUC-ROC)
-* Cross-validation: (e.g., Stratified K-Fold)
+* Primary metric: ( Accuracy )
 
 ## Results
 
-* Training accuracy:
-* Test accuracy:
-* Observations: (e.g., no overfitting, model generalizes well)
+* Test accuracy: Random Forest Classifier:84% , K-Neighbors Classifier: 87%, Support Vector Machine:83%, Desicion Tree
 
 ## Future Improvements
 
-* Hyperparameter tuning
-* Model explainability using SHAP
-* Deployment (Flask/FastAPI)
 
 ## How to Run
 
