@@ -40,8 +40,7 @@ This project predicts the likelihood of heart disease using machine learning tec
 * 🎯 Ensured balanced class distribution for target variable
  ```
 ## Model Used
-
-* Model: (e.g., Random Forest Classifier, K-Neighbors Classifier, Support Vector Machine, Desicion Tree:79%)
+* Model:  Random Forest Classifier, K-Neighbors Classifier, Support Vector Machine, Desicion Tree 
 * Reason for selection: High performance, handles non-linearity, interpretable
 
 ## Evaluation Metrics
@@ -50,7 +49,7 @@ This project predicts the likelihood of heart disease using machine learning tec
 
 ## Results
 
-* Test accuracy: Random Forest Classifier:84% , K-Neighbors Classifier: 87%, Support Vector Machine:83%, Desicion Tree
+* Test accuracy: Random Forest Classifier:84% , K-Neighbors Classifier: 87%, Support Vector Machine:83%, Desicion Tree:79%
 
 ## Future Improvements
 
